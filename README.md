@@ -13,6 +13,10 @@ Disk: 1 TB NVMe
 #### Oficial Github repo
 Installation [Docks](ttps://github.com/gevulotnetwork/gevulot/blob/main/INSTALL.md)
 
+#### Devnet form sudmission
+
+[Here](https://airtable.com/appS1ebiXFs8H4OP5/pagVuySwNkMe95tIi/form)
+
 #### Installation:
 
 #### 1. Install Podman
