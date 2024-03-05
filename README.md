@@ -10,9 +10,13 @@ CPU: 64+ cores
 RAM: 512GB
 Disk: 1 TB NVMe
 ```
-#### Oficial Github repo
+#### Oficial links:
 
-[Docks](https://github.com/gevulotnetwork/gevulot/blob/main/INSTALL.md)
+Gevulot Github [repo](https://github.com/gevulotnetwork/gevulot/blob/main/INSTALL.md)
+
+Gevulot [docks](https://docs.gevulot.com/gevulot-docs)
+
+Gevulot [website](https://gevulot.com/)
 
 #### Devnet form sudmission
 
