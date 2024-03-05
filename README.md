@@ -12,7 +12,7 @@ Disk: 1 TB NVMe
 ```
 #### Oficial Github repo
 
-[Docks](ttps://github.com/gevulotnetwork/gevulot/blob/main/INSTALL.md)
+[Docks](https://github.com/gevulotnetwork/gevulot/blob/main/INSTALL.md)
 
 #### Devnet form sudmission
 
