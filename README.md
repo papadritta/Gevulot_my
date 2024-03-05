@@ -11,7 +11,8 @@ RAM: 512GB
 Disk: 1 TB NVMe
 ```
 #### Oficial Github repo
-Installation [Docks](ttps://github.com/gevulotnetwork/gevulot/blob/main/INSTALL.md)
+
+[Docks](ttps://github.com/gevulotnetwork/gevulot/blob/main/INSTALL.md)
 
 #### Devnet form sudmission
 
