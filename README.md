@@ -24,7 +24,7 @@ Gevulot [website](https://gevulot.com/)
 
 #### Installation:
 
-#### 1. Install Podman
+#### 1. Install dependencies
 ```
 cd $HOME
 sudo apt update
